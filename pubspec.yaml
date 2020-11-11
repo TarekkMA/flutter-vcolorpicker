@@ -1,0 +1,19 @@
+name: vcolorpicker
+description: A new Flutter project.
+version: 1.0.10+10
+publish_to: "none"
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/trans_bg.png
